@@ -1,6 +1,6 @@
 import sys
 
-import self as self
+
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import  *
 from PyQt5.QtWebEngineWidgets import  *
